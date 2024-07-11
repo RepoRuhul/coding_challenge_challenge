@@ -5,7 +5,7 @@ package day1;
 //loop through
 //charAt(0)
 //length()
-
+//
 //use System.out.println()
 
 public class D1_1_PrintNameVertically {
